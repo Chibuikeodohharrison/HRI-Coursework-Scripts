@@ -1,0 +1,188 @@
+1792405210.3053842,reactive,session_start,
+1792405217.7455535,reactive,heard,hello
+1792405218.689272,reactive,reply,Hi there! How can I help you with your math today?
+1792405236.9034185,reactive,heard,differentiate 5X
+1792405238.0352538,reactive,reply,"The derivative of 5 x is 5.  
+That means the slope of the line 5 x is always 5."
+1792405270.0514145,reactive,not_understood,
+1792405278.010493,reactive,not_understood,
+1792405278.010493,reactive,reply,"Sorry, I did not catch that. Could you say it again?"
+1792405301.0952744,reactive,heard,what is the capital of Scotland
+1792405301.8235679,reactive,reply,The capital of Scotland is Edinburgh.
+1792405317.6519005,reactive,heard,what's the capital of England
+1792405318.0148659,reactive,reply,The capital of England is London.
+1792405335.485292,reactive,heard,what's the capital of France
+1792405336.426209,reactive,reply,The capital of France is Paris.
+1792405371.9404235,reactive,not_understood,
+1792405395.0044224,reactive,not_understood,
+1792405395.0044224,reactive,reply,"Sorry, I did not catch that. Could you say it again?"
+1792405411.9489021,reactive,heard,how can I be a good student
+1792405412.5322042,reactive,reply,"Being a good student means staying curious, practicing regularly, and asking questions when you’re stuck. Try to set small goals each day and review what you’ve learned. Do you have any particular subjects you’d like help with?"
+1792405436.1108584,reactive,heard,yes
+1792405436.8662307,reactive,reply,Which subject would you like help with?
+1792405452.47713,reactive,heard,I would like help with mathematics
+1792405453.2216396,reactive,reply,Great! What part of math are you finding tricky right now?
+1792405469.5983813,reactive,heard,you asking too many questions
+1792405470.3358467,reactive,reply,I’m sorry I asked a lot. Let’s try a quick hint instead. What’s the first step you think you should take when you’re stuck on a problem?
+1792405499.538038,reactive,heard,alright goodbye
+1792405500.2815104,reactive,reply,Goodbye! Feel free to return if you have more math questions. Take care!
+1792405515.6069689,reactive,session_end,
+1792406557.6659732,reactive,session_start,
+1792406565.6545823,reactive,not_understood,
+1792406574.9557629,reactive,heard,hello how are you doing
+1792406575.7113743,reactive,reply,"Hi! I'm doing great, thank you. How can I help with your maths today?"
+1792406581.5252924,reactive,speak_total_seconds,5.8
+1792406588.53183,reactive,heard,differentiate 4X
+1792406589.8743815,reactive,reply,"I think you meant the derivative of 4*x. The result is 4. Because 4 is a constant, its derivative with respect to x is 0. If you need the derivative of something else, just let me know!"
+1792406605.282385,reactive,speak_total_seconds,15.4
+1792406609.5727398,reactive,not_understood,
+1792406616.8060338,reactive,not_understood,
+1792406616.8074381,reactive,reply,"Sorry, I did not catch that. Could you say it again?"
+1792406621.4126368,reactive,speak_total_seconds,4.6
+1792406627.5940218,reactive,heard,teach me how to get an Indian girlfriend
+1792406628.3514485,reactive,reply,Could you explain that another way?
+1792406632.3992226,reactive,speak_total_seconds,4.0
+1792406638.9689462,reactive,heard,what is the capital of Nigeria
+1792406639.8705022,reactive,reply,The capital of Nigeria is Abuja.
+1792406643.9927046,reactive,speak_total_seconds,4.1
+1792406652.349157,reactive,not_understood,
+1792406658.8705778,reactive,not_understood,
+1792406658.8715775,reactive,reply,"Sorry, I did not catch that. Could you say it again?"
+1792406663.4764056,reactive,speak_total_seconds,4.6
+1792406668.7013016,reactive,heard,mystic pigeon
+1792406669.6312745,reactive,reply,I’m not sure what you mean by “m
+1792406673.586012,reactive,speak_total_seconds,4.0
+1792406681.5317307,reactive,not_understood,
+1792406686.184916,reactive,heard,how far
+1792406686.935616,reactive,reply,What distance do you need to find?
+1792406690.6889563,reactive,speak_total_seconds,3.8
+1792406696.7842946,reactive,not_understood,
+1792406700.5086992,reactive,heard,teacher updates
+1792406701.4397037,reactive,reply,"Could you tell me which teacher’s updates you’re looking for? For example, class announcements, assignment deadlines, or schedule changes? I’ll help you find that information."
+1792406711.9381092,reactive,speak_total_seconds,10.5
+1792406716.7235591,reactive,not_understood,
+1792406721.895877,reactive,heard,open session
+1792406723.3866806,reactive,reply,Sure! How can I help you today?
+1792406727.136682,reactive,speak_total_seconds,3.7
+1792406733.429005,reactive,not_understood,
+1792406739.948426,reactive,heard,goodbye my friend
+1792406741.2715013,reactive,reply,Goodbye! Have a great day.
+1792406745.579621,reactive,speak_total_seconds,4.3
+1792406746.3887737,reactive,session_end,
+1792406858.2475982,reactive,session_start,
+1792406863.6288662,reactive,heard,you're my friend
+1792406864.7896993,reactive,reply,"I’m glad to be your friend!  
+It’s nice to chat and help you with anything you need.  
+What would you like to talk about today?"
+1792406875.8051267,reactive,speak_total_seconds,11.0
+1792406883.5381207,reactive,heard,I would like for the recipe of making
+1792406884.27603,reactive,reply,Sure! What would you like a recipe for?
+1792406888.6498234,reactive,speak_total_seconds,4.4
+1792406894.3581176,reactive,heard,margarita
+1792406895.2522266,reactive,reply,"Here’s a simple Margarita recipe you can try at home.  
+• 2 oz tequila, 1 oz fresh lime juice, 1 oz orange‑liqueur (like triple sec).  
+• Shake all ingredients with ice, strain into a salt‑rimmed glass, and add a lime wheel.  
+Enjoy your drink!"
+1792406916.0269372,reactive,speak_total_seconds,20.8
+1792406921.2858307,reactive,heard,teach me how to make ice cream
+1792406922.0337005,reactive,reply,"Sure! First mix 1 cup milk, 1 cup cream, 1/2 cup sugar, and a pinch of salt.  
+Heat it until the sugar dissolves, then cool it and stir in vanilla.  
+Pour the mixture into an ice‑cream maker and churn until it’s nice and creamy."
+1792406940.250328,reactive,speak_total_seconds,18.2
+1792406945.8381662,reactive,not_understood,
+1792406948.2702715,reactive,not_understood,
+1792406948.2702715,reactive,reply,"Sorry, I did not catch that. Could you say it again?"
+1792406953.588459,reactive,speak_total_seconds,5.3
+1792406957.7486305,reactive,heard,yeah have a nice day
+1792406958.8627946,reactive,reply,Thank you! Have a wonderful day too!
+1792406962.7980425,reactive,speak_total_seconds,3.9
+1792406967.0424895,reactive,heard,goodbye
+1792406967.4267037,reactive,reply,Bye! It was great chatting with you. Have a great day!
+1792406972.0497324,reactive,speak_total_seconds,4.6
+1792406972.8219006,reactive,session_end,
+1792408494.8820512,reactive,run_start,reactive
+1792408504.2014322,reactive,hand_raise_p1,right
+1792408504.2014322,reactive,session_start_p1,right
+1792408506.0485468,reactive,ack_speak_called,1.85s after raise
+1792408510.0028312,reactive,speak_total_seconds,4.0
+1792408510.0028312,reactive,ack_speak_done,5.80s after raise
+1792408518.6602318,reactive,heard_p1,differentiate 5X
+1792408519.9691958,reactive,reply,"The derivative of 5 x with respect to x is 5.  
+We just applied the rule that the derivative of a constant times x is the constant."
+1792408531.1730585,reactive,speak_total_seconds,11.2
+1792408535.026488,reactive,heard_p1,goodbye
+1792408535.5876505,reactive,reply,Goodbye! Have a great day!
+1792408540.0687115,reactive,speak_total_seconds,4.5
+1792408540.5697408,reactive,session_end_p1,goodbye
+1792408543.983754,reactive,hand_raise_p1,right
+1792408543.98475,reactive,session_start_p1,right
+1792408545.6383917,reactive,ack_speak_called,1.65s after raise
+1792408549.1042867,reactive,speak_total_seconds,3.5
+1792408549.1047924,reactive,ack_speak_done,5.12s after raise
+1792408556.9764323,reactive,heard_p1,5 x 4
+1792408557.9072092,reactive,reply,5 × 4 is 20.
+1792408562.3887439,reactive,speak_total_seconds,4.5
+1792408570.746502,reactive,not_understood,
+1792408574.3914356,reactive,speak_total_seconds,3.6
+1792408574.754545,reactive,hand_raise_p2,right
+1792408579.4839149,reactive,heard_p1,goodbye
+1792408579.8726363,reactive,reply,Bye! Take care.
+1792408584.149006,reactive,speak_total_seconds,4.3
+1792408584.649648,reactive,session_end_p1,goodbye
+1792408584.649648,reactive,session_start_p2,right
+1792408586.5578806,reactive,ack_speak_called,11.80s after raise
+1792408590.5630684,reactive,speak_total_seconds,4.0
+1792408590.5635736,reactive,ack_speak_done,15.81s after raise
+1792408597.5235639,reactive,heard_p2,goodbye
+1792408598.1018612,reactive,reply,Bye! Take care!
+1792408601.704242,reactive,speak_total_seconds,3.6
+1792408602.2047768,reactive,session_end_p2,goodbye
+1792408602.6366916,reactive,hand_raise_p4,right
+1792408602.6366916,reactive,session_start_p4,right
+1792408604.249898,reactive,ack_speak_called,1.61s after raise
+1792408608.58508,reactive,speak_total_seconds,4.3
+1792408608.58508,reactive,ack_speak_done,5.95s after raise
+1792408614.4499946,reactive,heard_p4,what's the fastest animal
+1792408615.1962159,reactive,reply,"The fastest animal overall is the peregrine falcon, which can dive at about 240 mph (roughly 386 km/h). On land, the cheetah tops the list, sprinting close to 70 mph (112 km/h)."
+1792408628.4010973,reactive,speak_total_seconds,13.2
+1792408633.2359352,reactive,not_understood,
+1792408636.3415935,reactive,speak_total_seconds,3.1
+1792408639.5840566,reactive,not_understood,
+1792408639.5850565,reactive,session_end_p4,not_understood
+1792408685.0147548,reactive,hand_raise_p4,right
+1792408685.0162623,reactive,session_start_p4,right
+1792408687.1854825,reactive,ack_speak_called,2.17s after raise
+1792408690.819088,reactive,speak_total_seconds,3.6
+1792408690.8201017,reactive,ack_speak_done,5.81s after raise
+1792408697.9652524,reactive,heard_p4,hello Maddie what's the fastest runner ever
+1792408698.3621294,reactive,reply,"Hi! The fastest runner in history is Usain Bolt, who ran 100 metres in just 9.58 seconds, the world record."
+1792408709.7567058,reactive,speak_total_seconds,11.4
+1792408717.6805124,reactive,heard_p4,what is the fastest land animal
+1792408718.4264224,reactive,reply,The fastest land animal is the cheetah. It can reach speeds up to about 70 mph (112 km/h).
+1792408725.8284166,reactive,speak_total_seconds,7.4
+1792408735.730275,reactive,heard_p4,what makes a whale a mammal
+1792408736.281632,reactive,reply,"Whales are mammals because they are warm‑blooded, breathe air with lungs, give birth to live babies, and feed their young with milk from mammary glands. Those traits make them part of the mammal family."
+1792408750.3146179,reactive,speak_total_seconds,14.0
+1792408760.646506,reactive,heard_p4,okay what is swimming water can you not say the fish
+1792408761.3911386,reactive,reply,Could you explain that another way?
+1792408765.311244,reactive,speak_total_seconds,3.9
+1792408769.778718,reactive,heard_p4,swimming water can you not see the fish
+1792408771.0641408,reactive,reply,Could you explain that another way?
+1792408774.6151476,reactive,speak_total_seconds,3.5
+1792408775.1164463,reactive,session_end_p4,max_turns
+1792408794.5728638,reactive,hand_raise_p5,right
+1792408794.5742905,reactive,session_start_p5,right
+1792408796.3622398,reactive,ack_speak_called,1.79s after raise
+1792408799.6027005,reactive,speak_total_seconds,3.2
+1792408799.6027005,reactive,ack_speak_done,5.03s after raise
+1792408806.7769136,reactive,heard_p5,how many languages are in Nigeria
+1792408807.3375382,reactive,reply,Nigeria has roughly 500 different languages spoken across the country.
+1792408811.5437434,reactive,speak_total_seconds,4.2
+1792408819.8276813,reactive,heard_p5,thank you
+1792408820.5613413,reactive,reply,You're welcome! Glad I could help.
+1792408824.2792616,reactive,speak_total_seconds,3.7
+1792408828.5356622,reactive,heard_p5,goodbye
+1792408828.9213262,reactive,reply,Goodbye! It was great chatting with you. Take care!
+1792408832.7420568,reactive,speak_total_seconds,3.8
+1792408833.2433991,reactive,session_end_p5,goodbye
+1792408871.3204455,reactive,run_end,reactive

@@ -14,8 +14,8 @@ import time
 # Set to None to NEVER split inside a sentence (risk: long sentences cut off).
 SENTENCE_HARD_LIMIT = 25
 
-WORDS_PER_SECOND = 2.5        # tune with a stopwatch (see notes)
-GAP_AFTER_SENTENCE = 0.4      # pause between sentences (seconds)
+WORDS_PER_SECOND = 3        # tune with a stopwatch (see notes)
+GAP_AFTER_SENTENCE = 0.1      # pause between sentences (seconds)
 
 
 def split_into_sentences(reply):

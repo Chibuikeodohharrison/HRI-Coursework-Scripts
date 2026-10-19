@@ -18,7 +18,7 @@ import math
 import json
 
 from martypy import Marty
-from speech_utils2 import speak_reply
+from speech_utils3 import speak_reply
 import speech_recognition as sr
 from openai import OpenAI
 import sympy as sp
@@ -32,8 +32,8 @@ LIST_MICS = False                # True = print microphones and exit
 
 # Listening behaviour (tune these)
 PUSH_TO_TALK = False             # True = press Enter, then speak (most robust for demos)
-SETTLE_SECONDS = 1             # wait after Marty finishes talking before listening
-PAUSE_THRESHOLD = 2            # seconds of silence that END your sentence (higher = more time)
+SETTLE_SECONDS = 0.5             # wait after Marty finishes talking before listening
+PAUSE_THRESHOLD = 1            # seconds of silence that END your sentence (higher = more time)
 NON_SPEAKING_DURATION = 1      # silence kept at the edges (must be <= PAUSE_THRESHOLD)
 LISTEN_TIMEOUT = 5              # seconds to wait for you to START speaking
 PHRASE_LIMIT = 20                # max seconds for one sentence
