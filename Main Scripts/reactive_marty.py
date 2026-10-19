@@ -25,7 +25,7 @@ import speech_recognition as sr
 from martypy import Marty
 
 import speech4 as s4                 # LLM dialogue, speaking, mic settings, logging
-import hand_raise_yolo as camera     # multi-person hand-raise detector
+import hand_raise_yolo2 as camera     # multi-person hand-raise detector
 
 # ---------------- Configuration ----------------
 MARTY_IP = s4.MARTY_IP
@@ -36,7 +36,7 @@ ACK_LINE = "Yes, person {n}. How can I help?"   # keep it short (speech cuts off
 RETRY_LINE = "Sorry, could you say that again?"
 FIRST_LISTEN_TIMEOUT = 10            # seconds to wait for the student to start speaking
 FOLLOWUP_TIMEOUT = 8                 # seconds to wait for a follow-up question
-MAX_TURNS = 5                        # max exchanges per hand raise
+MAX_TURNS = 10                        # max exchanges per hand raise
 END_WORDS = ("goodbye", "bye", "that's all")
 
 ACK_ARM_ANGLE = 90                   # flip the sign if Marty's arm goes DOWN
